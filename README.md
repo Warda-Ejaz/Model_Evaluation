@@ -75,6 +75,3 @@ All 4 evaluation metrics required for Day 3 Task have been calculated and displa
 Submitted by: Warda Ejaz  
 Date: 17-June-2026 
 Project Day 3 - Model Evaluation
-
-
-Notebook run ho gaya tha na?
