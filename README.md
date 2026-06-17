@@ -77,6 +77,4 @@ Date: 17-June-2026
 Project Day 3 - Model Evaluation
 
 
-Kuch change karwana hai? Naam, date, university add karni hai to batao main edit kar deta hun.
-
 Notebook run ho gaya tha na?
